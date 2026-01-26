@@ -1,7 +1,6 @@
 PhotoBooth
 
 PhotoBooth is a photography website built to showcase real moments, real energy, and real vibes.  
-No stiff poses. No forced smiles. Just memories that hit.
 
 This project is a simple, clean photography portfolio created using HTML and CSS, focused on layout, styling, and user experience.
 
