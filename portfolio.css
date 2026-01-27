@@ -1,3 +1,8 @@
+body {
+  background-color: pink;
+  margin: 0;
+}
+
 .content {
   display: flex;
   flex-direction: column;
@@ -5,7 +10,6 @@
   max-width: 800px;
   margin: 30px auto;
   padding: 0 20px;
-  background-color: pink;
 }
 
 .content h1 {

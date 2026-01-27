@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-
-=======
 # PhotoBooth
 
 PhotoBooth is a photography website built to showcase real moments, real energy, and real vibes.
@@ -22,4 +19,7 @@ This project is a simple, clean photography portfolio created using **HTML and C
 
 - HTML
 - CSS
->>>>>>> Stashed changes
+
+## Live Link
+
+https://mogeni-cell.github.io/Photobooth/
