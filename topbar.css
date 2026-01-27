@@ -1,0 +1,31 @@
+.top-bar {
+  background-color: pink;
+  padding: 10px 0;
+}
+.top-bar ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 90px;
+  margin: 0;
+  padding: 0;
+}
+.top-bar li {
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  position: relative;
+}
+.top-bar li::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  width: 0;
+  height: 2px;
+  background-color: black;
+  transition: width 0.3s ease;
+}
+.top-bar li:hover::after {
+  width: 100%;
+}
