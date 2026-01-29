@@ -23,3 +23,22 @@ body {
 .btn:hover {
   transform: scale(1.05);
 }
+.bio-section {
+  background-color: white;
+  padding: 50px 20px;
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+  color: black;
+}
+
+.bio-section h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.bio-section p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
