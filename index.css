@@ -6,7 +6,7 @@ body {
   height: 100vh;
   background: pink;
 }
-a {
+.btn {
   margin: 10px;
   padding: 10px 20px;
   background: white;
@@ -15,7 +15,11 @@ a {
   font-weight: bold;
   border-radius: 5px;
   transition: transform 0.2s ease;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
 }
-a:hover {
+
+.btn:hover {
   transform: scale(1.05);
 }
